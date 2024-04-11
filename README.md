@@ -1,10 +1,10 @@
 # 🖥️ Rahal Abeyrathna
 
-![Javascript](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![javascript-image](javascript.gif)
 
-👨🏽‍💻 Full-Stack Developer based in Melbourne, Australia<br>🎓 Currently studying at Coder Academy<br>📕 Take a look at my Portfolio here<br>✉️ Shoot me an email at rahal@res-network.com
+👨🏽‍💻 Full-Stack Developer based in Melbourne, Australia<br>🎓 Currently studying at [Coder Academy](https://coderacademy.edu.au/)<br>📕 Take a look at my [Portfolio](https://portfolio.rabeyrathna.com/)<br>✉️ Shoot me an email at rahal@res-network.com
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=RAbeyrathna&theme=dark&hide_border=false)
+
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -19,3 +19,6 @@
 <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAbeyrathna&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=RAbeyrathna&theme=dark&hide_border=false)
+
