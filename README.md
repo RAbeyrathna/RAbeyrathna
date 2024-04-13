@@ -37,7 +37,8 @@ A terminal application built using Python that allows users to monitor, organise
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-
+---
+<br>
 
 <p align="middle">
     <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=RAbeyrathna&theme=dark&hide_border=false" alt="Rahal's Github Stats" /></a> 
