@@ -4,9 +4,23 @@
 
 👨🏽‍💻 Full-Stack Developer based in Melbourne, Australia<br>🎓 Currently studying at [Coder Academy](https://coderacademy.edu.au/)<br>📕 Take a look at my [Portfolio](https://portfolio.rabeyrathna.com/)<br>✉️ Shoot me an email at rahal@res-network.com
 
+## 🏗️ Personal Projects
 
+### [Portfolio Website](https://github.com/RAbeyrathna/T1A2-Portfolio)
 
-## 💻 Tech Stack
+Initially developed as part of an assignment at Coder Academy, this project serves as my personal portfolio website, which can be found at https://portfolio.rabeyrathna.com. It will be maintained and updated to ensure it remains an effective showcase of my work.
+
+### [Game Library API](https://github.com/RAbeyrathna/T2A2-Game-Library-API)
+
+This API application is designed to allows users organise their individual game collections. It enables users to include games in their personal libraries, track their current status, and access additional information, such as their personal ratings for each game.
+
+Built using Python, Flask, SQLAlchemy and PostgreSQL.
+
+### [Workout Tracker Terminal App](https://github.com/RAbeyrathna/T1A3-Workout-Tracker)
+
+A terminal application built using Python that allows users to monitor, organise, and review their workout routines and history. It enables users to log exercises and workout templates, while also enabling them to track their personal bests (PBs) for each exercise.
+
+## 📚 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
