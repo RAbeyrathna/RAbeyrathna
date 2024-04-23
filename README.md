@@ -36,7 +36,8 @@ A terminal application built using Python that allows users to monitor, organise
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## #30NitesOfCode:
+## [#30NitesOfCode](https://twitter.com/RahalAbeyrathna):
+
   [Check out my progress!](https://www.codedex.io/@RAbeyrathna/30-nites-of-code)  
   ![@RAbeyrathna #30NitesOfCode](https://www.codedex.io/api/petStatus?user=RAbeyrathna)
 
