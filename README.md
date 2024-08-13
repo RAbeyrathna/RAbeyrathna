@@ -2,7 +2,7 @@
 
 ![javascript-image](javascript.gif)
 
-👨🏽‍💻 Full-Stack Developer based in Melbourne, Australia<br>🎓 Currently studying at [Coder Academy](https://coderacademy.edu.au/)<br>📕 Take a look at my [Portfolio](https://portfolio.rabeyrathna.com/)<br>✉️ Shoot me an email at rahal@res-network.com
+👨🏽‍💻 Full-Stack Developer based in Melbourne, Australia<br>🎓 Currently studying at [Coder Academy](https://coderacademy.edu.au/)<br>📕 Take a look at my [Portfolio](https://portfolio.rabeyrathna.com/)<br>✉️ Shoot me an email at contact@rabeyrathna.com.
 
 ## 🏗️ Personal Projects
 
