@@ -2,13 +2,17 @@
 
 ![javascript-image](javascript.gif)
 
-👨🏽‍💻 Full-Stack Developer based in Melbourne, Australia<br>🎓 Currently studying at [Coder Academy](https://coderacademy.edu.au/)<br>📕 Take a look at my [Portfolio](https://portfolio.rabeyrathna.com/)<br>✉️ Shoot me an email at contact@rabeyrathna.com.
+👨🏽‍💻 Full-Stack Developer based in Melbourne, Australia<br>📕 Take a look at my [Portfolio](https://portfolio.rabeyrathna.com/)<br>✉️ Shoot me an email at contact@rabeyrathna.com
 
-## 🏗️ Personal Projects
+## 🏗️ Projects
+
+### [PokéTrails](https://github.com/poketrails)
+
+PokéTrails is an online web game developed for the final Coder Academy group assignment, consisting of myself and 2 other students. It allows users to hatch, train, and care for Pokémon, as well as send them on trails to find items and earn money. The organisation repo can be found clicking [here](https://github.com/poketrails) or explore the deployed game at [poketrails.com](https://poketrails.com).
 
 ### [Portfolio Website](https://github.com/RAbeyrathna/T1A2-Portfolio)
 
-Initially developed as part of an assignment at Coder Academy, this project serves as my personal portfolio website, which can be found at https://portfolio.rabeyrathna.com. It will be maintained and updated to ensure it remains an effective showcase of my work.
+Initially developed as part of an assignment at Coder Academy, this project serves as my personal portfolio website, which can be found at [portfolio.rabeyrathna.com](https://portfolio.rabeyrathna.com). It will be maintained and updated to ensure it remains an effective showcase of my work.
 
 ### [Game Library API](https://github.com/RAbeyrathna/T2A2-Game-Library-API)
 
