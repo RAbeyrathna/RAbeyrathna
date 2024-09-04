@@ -8,7 +8,9 @@
 
 ### [PokéTrails](https://github.com/poketrails)
 
-PokéTrails is an online web game developed for the final Coder Academy group assignment, consisting of myself and 2 other students. It allows users to hatch, train, and care for Pokémon, as well as send them on trails to find items and earn money. The organisation repo can be found clicking [here](https://github.com/poketrails) or explore the deployed game at [poketrails.com](https://poketrails.com).
+PokéTrails is a full-stack web game developed for the final Coder Academy group assignment, consisting of myself and 2 other students.
+
+It allows users to hatch, train, and care for Pokémon, as well as send them on trails to find items and earn money. The organisation repo can be found clicking [here](https://github.com/poketrails) or explore the deployed game at [poketrails.com](https://poketrails.com).
 
 ### [Portfolio Website](https://github.com/RAbeyrathna/T1A2-Portfolio)
 
