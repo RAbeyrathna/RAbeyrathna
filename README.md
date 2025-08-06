@@ -64,12 +64,5 @@ This diary tracks:
 
 ---
 
-<br>
-
-<p align="middle">
-    <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=RAbeyrathna&theme=dark&hide_border=false" alt="Rahal's Github Stats" />
-    &nbsp; &nbsp; &nbsp; 
-    <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAbeyrathna&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Rahal's Most used languages"/>
-</p>
-
-<br>
+![RAbeyrathna's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAbeyrathna&theme=cobalt&hide_border=true)
+![RAbeyrathna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAbeyrathna&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
