@@ -33,9 +33,9 @@ A terminal application built with Python that allows users to monitor, organise,
 
 ---
 
-## 📔 Engineering Diary
+## 📔 Developer Journal
 
-I’m documenting my journey to becoming a stronger web developer in my [**Engineering Diary**](https://github.com/RAbeyrathna/engineering-diary).  
+I’m documenting my journey to becoming a stronger web developer in my [**Developer Journal**](https://github.com/RAbeyrathna/engineering-diary).  
 
 This diary tracks:
 
